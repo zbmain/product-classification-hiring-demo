@@ -4,7 +4,7 @@
 
 ## 数据集：
 
-商品标题分类数据集
+商品标题分类数据集: https://modelscope.cn/datasets/winwin_inc/product-classification-hiring-demo
 
 * 商品标题
 * 商品类目：`即饮奶茶, 即饮茶, 硬糖,牙膏, 非冷藏即饮果汁, 冷藏即饮果汁, 白酒, 方便面, 软糖, 口香糖`
@@ -12,7 +12,7 @@
 ## 代码描述：
 
 1. 请自行安装环境管理工具`uv`: https://github.com/astral-sh/uv
-2. 执行代码测试：`uv run pytest`
+2. 执行代码测试：`uv run pytest` 将下载数据集预览。
 3. 如需JupyterNotebook：`uv run notebook`
 4. 请继续实现你的代码。
 
