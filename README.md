@@ -13,7 +13,7 @@
 
 1. 请自行安装环境管理工具`uv`: https://github.com/astral-sh/uv
 2. 执行代码测试：`uv run pytest` 将下载数据集预览。
-3. 如需JupyterNotebook：`uv run notebook`
+3. 如需Jupyter Notebook：`uv run notebook`
 4. 请继续实现你的代码。
 
 ## 结果要求：
